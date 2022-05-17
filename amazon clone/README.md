@@ -23,7 +23,7 @@ This is a clone of popular e-commmerce website Amazon. I have created it with Re
 Clone the project
 
 ```bash
-  git clone https://github.com/jenilsavani9/amazon-clone.git
+  git clone https://github.com/keval-14/amazon-clone.git
 ```
 
 Go to the project directory
@@ -89,7 +89,7 @@ Create stripe Test API keys and change Publishable key in stripePromise variable
 ![orders](https://user-images.githubusercontent.com/74345702/157370550-ca2fda72-add3-455f-85fd-bcd6b062718e.png)
 ### Feedback
 
-If you have any feedback, please reach out to me at jenilsavani1@gmail.com
+If you have any feedback, please reach out to me at work.kevalpatel@gmail.com
 
 ## License
 
