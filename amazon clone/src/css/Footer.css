@@ -1,0 +1,9 @@
+.footer {
+  background-color: #131a22;
+  color: white;
+}
+
+.footer__info {
+  padding: 20px 0;
+  text-align: center;
+}

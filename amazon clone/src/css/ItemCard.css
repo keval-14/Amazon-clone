@@ -1,0 +1,44 @@
+.item__card {
+  display: flex;
+  flex-direction: column;
+  max-width: 270px;
+  padding: 20px 30px;
+  align-items: center;
+  background-color: white;
+  margin: 20px 0;
+  z-index: 1;
+}
+
+.item__card:hover {
+  box-shadow: 0 0 50px rgba(27, 27, 27, 0.7);
+  transition: 0.3s;
+}
+
+.title {
+  text-align: left;
+  min-height: 70px;
+}
+
+.stars {
+  text-align: left;
+  margin: 10px 0;
+}
+
+.item__card__img {
+  max-width: 150px;
+}
+
+.add__to__cart__btn {
+  background-color: #febd69;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 16px;
+  margin: 20px 0;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.item_price {
+  text-align: left;
+  font-weight: bold;
+}
